@@ -12,7 +12,7 @@ public class basics extends base{
 
 		
 		AndroidDriver<AndroidElement> driver=Capabilities();
-		 
+	abcffffff 
 	}
 
 }
